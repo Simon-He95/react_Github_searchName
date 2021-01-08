@@ -1,0 +1,22 @@
+.row{
+    box-sizing: border-box;
+    padding: 5px 20px;
+    margin: 0 30px;
+    background-color: mediumaquamarine;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: 'flex-start';
+    align-items: center;
+}
+.row .card{
+    width: 33%;
+    height: 33vh;
+    border: 1px solid lightgoldenrodyellow;
+    border-radius: 5px;
+    text-align: center;
+}
+.start{
+    box-sizing: border-box;
+    padding: 0 30px;
+}

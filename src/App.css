@@ -1,0 +1,9 @@
+.todo-container{
+  width: 500px;
+  height: auto;
+  border: 1px solid lightslategray;
+  border-radius: 7px;
+  padding: 5px;
+  margin: 10px auto;
+  text-align: center;
+}
